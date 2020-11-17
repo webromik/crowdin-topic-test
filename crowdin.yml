@@ -1,3 +1,5 @@
+base_path: pixiv/Translations
+preserve_hierarchy: true
 files:
   - source: /ja.lproj/Localizable.strings
     dest: Localizable.strings
